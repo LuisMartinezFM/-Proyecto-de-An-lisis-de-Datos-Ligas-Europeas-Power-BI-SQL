@@ -28,5 +28,23 @@ interactivo desarrollado en Power BI.
 ## 👉 SQL
 [Ver archivo SQL](./Ligas_europeas_2020_2021.sql)
 
+### En este archivo se encuentran las consultas utilizadas para:
+- Limpieza de datos
+- Filtrado por liga
+- Cálculo de promedios
+- Ranking de equipos
+- Creacion de tablas secundarias
+  
 ## 🧾 Dataset
-[Ver Datase](./futbol.csv)
+[Ver Dataset](./futbol.csv)
+### Estructura del dataset
+- equipo
+- torneo
+- goles
+- tiros_por_juego
+- tarjetas_amarillas
+- tarjetas_rojas
+- posesion
+- porcentaje_de_pases
+- duelos_aereos_ganados
+- calificacion
