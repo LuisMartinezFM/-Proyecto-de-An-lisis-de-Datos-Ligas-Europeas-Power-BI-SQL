@@ -25,7 +25,7 @@ interactivo desarrollado en Power BI.
 
 ---
 
-##👉 SQL
+## 👉 SQL
 [Ver archivo SQL](./Ligas_europeas_2020_2021.sql)
 
 ## 🧾 Dataset
